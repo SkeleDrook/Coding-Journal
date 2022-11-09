@@ -1,0 +1,40 @@
+High level language(JS) - Code has to be converted into low level language (binary) so that the CPU can interpret it
+
+### Javascript
+
+- language of the internet
+- created in 1995
+- alternatives are VBS script and Typescript (Still compiles down to JS)
+
+### JS is used in:
+
+- Client side of sites - Plain JS(Vanilla JS)
+- Fuels JS Frameworks - React, React, Vue, and D3
+- Used on the server - Node.js
+
+When working with the DevTools console, If you need to type multiple lines of code before you run them, make sure to press the SHIFT + ENTER shortcut key to get onto the next line.
+
+### Comments in JS:
+
+
+`//Single line comment.`
+
+`/*`
+
+`This is a multi line comment.`
+
+`*/`
+
+`/* This is a multi line comment on a single line.`
+
+### Outputting:
+
+
+`console.log("Hello World")`
+
+`console.log("Outputting" + "Multiple" + "Words")`
+
+### Working in a DevTools console:
+
+
+![image](https://res.craft.do/user/full/a169c546-510d-a6d5-e38a-ace3ea8d6f8e/doc/94028617-4046-4D24-B720-9B1DBCA5DD52/61267797-9F5C-40FD-AFE0-89B3C3527098_2/xCYrPfqXBwI7P2LDomuZYANHxsQPDW3yfiHKh2MaPCcz/Image.png)
