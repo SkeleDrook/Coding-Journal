@@ -1,0 +1,45 @@
+## Types of variables in JS:
+
+- String - Text data type, stored in quotes "" or '' (Delimiters)
+- Number - Number data type
+- Boolean - True or False
+- Null - Absence of value
+- Undefined - Unassigned value
+- BigInt - Bigger range of numbers
+- Symbol - Unique Identifier
+
+## Arithmetic operators:
+
+- + - addition
+- -  - subtraction
+- * - multiplication
+- / - division
+- ** - power of
+- % - modulo
+
+## Comparison operators:
+
+- > - greater than
+- < - less than
+- == - equality
+- === - strict equality check for value AND type
+- != - inequality
+- !== - strict inequaity check for value AND type
+
+## Logical operators:
+
+- && - and
+- || - or
+- ! - not
+
+## Combining strings and numbers using the + operator:
+
+
+![image](https://res.craft.do/user/full/a169c546-510d-a6d5-e38a-ace3ea8d6f8e/doc/BCACF768-FF05-4152-9377-9E8964EF3E49/2636DB49-18A1-4A22-BEC6-5F1827E7894A_2/7797ImaWX6PUx5Qi45dGom94KY7AgvzZPytC3sdXdtQz/Image.png)
+
+Here, JavaScript tries to help by converting the numbers to strings, and then concatenating the number and the string together, ending up with a string value.
+
+## Operator precedence and associativity
+
+
+5 > 4 > 3; // the 5 > 4 is evaluated first (to `true`), then true > 3 is evaluated to `false`, because the `true` value is coerced to `1`
